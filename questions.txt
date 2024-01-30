@@ -1,0 +1,15 @@
+ 1. Which symbol represent no of command line arguments?
+    a) $#                 
+    b) $n
+    c) $$                 
+    d) $@ 
+ 2. Shebang symbol is
+    a)@$
+    b)$*
+    c)#!
+    d)!#
+ 3.Cat command is used for?
+   a) split file          
+   b) display the content of the file
+   c) compare files       
+   d) delete the content of the file
